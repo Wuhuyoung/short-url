@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.logs
+*.iml
+*.class
+*rebel.xml
+*.bak
+*generatorConfig.xml
+target
+/**/src/test/
+/logs/
+.gradle

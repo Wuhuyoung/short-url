@@ -1,0 +1,14 @@
+spring:
+  redis:
+    host: 127.0.0.1
+    database: 1
+  datasource:
+    url: jdbc:mysql://localhost:3306/shortUrl?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8
+    username: root
+    password: 491001
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+han:
+  url: http://127.0.0.1:8080/
+
+
